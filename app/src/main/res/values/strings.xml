@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">2018115_Tugas6</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Bisa Request paha atau
+dada</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Cenil">Rp.15000</string>
+    <string name="navigation_drawer_open">Open
+NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close
+NavigationDrawer</string>
+    <string-array name="Makanan">
+        <item>Ayam Geprek</item>
+        <item>Ayam kunyit</item>
+        <item>Ayam kecap</item>
+    </string-array>
+    <string-array name="Star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>15000</item>
+        <item>10000</item>
+        <item>11000</item>
+    </string-array>
+</resources>
